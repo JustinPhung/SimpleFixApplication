@@ -1,0 +1,23 @@
+[DEFAULT]# Settings which apply to all the Sessions.
+ConnectionType=initiator
+LogonTimeout=30
+ReconnectInterval=30
+ResetOnLogon=N
+FileLogPath=/home/jp/macd/workspace/SimpleFixApplication/logs
+
+[SESSION]# Settings specifically for one session
+BeginString=FIX.4.4
+SenderCompID=Client
+TargetCompID=Boerse
+StartDay=sunday
+EndDay=friday
+StartTime=00:00:00
+EndTime=00:00:00
+HeartBtInt=5
+CheckLatency=N
+MaxLatency=240
+SocketConnectPort=9876
+SocketConnectHost=127.0.0.1
+UseDataDictionary=Y
+DataDictionary=/home/jp/macd/workspace/quickfixj/quickfixj-messages/quickfixj-messages-fix44/target/classes/FIX44.xml
+FileStorePath=/home/jp/macd/workspace/SimpleFixApplication/sessioninfo

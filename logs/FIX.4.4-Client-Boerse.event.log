@@ -1,0 +1,137 @@
+20170217-08:57:09: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-08:57:09: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-08:57:09: Created session: FIX.4.4:Client->Boerse
+20170217-08:57:09: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-08:57:09.87556=Boerse108=30141=Y10=038
+20170217-09:00:47: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:00:47: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:00:47: Created session: FIX.4.4:Client->Boerse
+20170217-09:00:48: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:00:48.01856=Boerse108=30141=Y10=019
+20170217-09:01:42: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:01:42: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:01:42: Created session: FIX.4.4:Client->Boerse
+20170217-09:01:42: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:01:42.28456=Boerse108=30141=Y10=019
+20170217-09:19:52: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:19:52: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:19:52: Created session: FIX.4.4:Client->Boerse
+20170217-09:19:52: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:19:52.13556=Boerse108=30141=Y10=024
+20170217-09:20:43: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:20:43: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:20:43: Created session: FIX.4.4:Client->Boerse
+20170217-09:20:43: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:20:43.96256=Boerse108=30141=Y10=024
+20170217-09:24:44: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:24:44: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:24:44: Created session: FIX.4.4:Client->Boerse
+20170217-09:24:44: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:24:44.21156=Boerse108=30141=Y10=016
+20170217-09:25:53: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:25:53: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:25:53: Created session: FIX.4.4:Client->Boerse
+20170217-09:25:53: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:25:53.60956=Boerse108=30141=Y10=028
+20170217-09:27:01: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:27:01: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:27:01: Created session: FIX.4.4:Client->Boerse
+20170217-09:27:19: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:27:19.23456=Boerse108=30141=Y10=026
+20170217-09:27:58: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:27:58: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:27:58: Created session: FIX.4.4:Client->Boerse
+20170217-09:28:44: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:28:05.95056=Boerse108=30141=Y10=027
+20170217-09:33:12: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:33:12: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:33:12: Created session: FIX.4.4:Client->Boerse
+20170217-09:33:12: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:33:12.15956=Boerse108=30141=Y10=022
+20170217-09:34:12: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:34:12: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:34:12: Created session: FIX.4.4:Client->Boerse
+20170217-09:34:12: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:34:12.54356=Boerse108=30141=Y10=020
+20170217-09:46:14: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170217-09:46:14: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170217-09:46:14: Created session: FIX.4.4:Client->Boerse
+20170217-09:46:14: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170217-09:46:14.49256=Boerse108=30141=Y10=028
+20170302-09:44:07: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170302-09:44:07: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170302-09:44:07: Created session: FIX.4.4:Client->Boerse
+20170302-09:44:08: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170302-09:44:08.00256=Boerse108=30141=Y10=011
+20170302-09:44:08: Initiated logon request
+20170302-09:44:09: Received logon
+20170302-09:44:09: Received ResendRequest FROM: 1 TO: infinity
+20170302-09:44:09: Sent SequenceReset TO: 3
+20170302-09:56:49: java.net.ConnectException during connection to localhost/127.0.0.1:9876: java.net.ConnectException: Connection refused (Next retry in 30000 milliseconds)
+20170302-09:59:55: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170302-09:59:55: Created session: FIX.4.4:Client->Boerse
+20170302-09:59:55: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170302-09:59:55.49556=Boerse108=30141=Y10=035
+20170302-09:59:56: Initiated logon request
+20170302-09:59:56: Received logout request: MsgSeqNum too low, expecting 154 but received 2
+20170302-09:59:56: Sent logout response
+20170302-10:00:26: Initiated logon request
+20170302-10:00:26: Received logout request: MsgSeqNum too low, expecting 154 but received 4
+20170302-10:00:26: Sent logout response
+20170302-10:00:56: Initiated logon request
+20170302-10:00:56: Received logout request: MsgSeqNum too low, expecting 154 but received 6
+20170302-10:00:56: Sent logout response
+20170302-10:01:26: Initiated logon request
+20170302-10:01:26: Received logout request: MsgSeqNum too low, expecting 154 but received 8
+20170302-10:01:26: Sent logout response
+20170302-10:01:40: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170302-10:01:40: Created session: FIX.4.4:Client->Boerse
+20170302-10:01:40: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170302-10:01:40.43056=Boerse108=30141=Y10=253
+20170302-10:01:41: Initiated logon request
+20170302-10:01:41: Received logout request: MsgSeqNum too low, expecting 154 but received 2
+20170302-10:01:41: Sent logout response
+20170302-10:02:11: Initiated logon request
+20170302-10:02:11: Received logout request: MsgSeqNum too low, expecting 154 but received 4
+20170302-10:02:11: Sent logout response
+20170302-10:04:21: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170302-10:04:21: Created session: FIX.4.4:Client->Boerse
+20170302-10:04:21: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170302-10:04:21.19656=Boerse108=30141=Y10=008
+20170302-10:04:22: Initiated logon request
+20170302-10:04:22: Received logon
+20170302-10:04:22: Received ResendRequest FROM: 1 TO: infinity
+20170302-10:04:22: Sent SequenceReset TO: 3
+20170302-10:06:47: Initiated logon request
+20170302-10:06:47: Received logon
+20170302-10:08:44: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170302-10:08:44: Created session: FIX.4.4:Client->Boerse
+20170302-10:08:44: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170302-10:08:44.59956=Boerse108=30141=Y10=024
+20170302-10:08:45: Initiated logon request
+20170302-10:08:45: Received logout request: MsgSeqNum too low, expecting 44 but received 2
+20170302-10:08:45: Sent logout response
+20170302-10:09:15: Initiated logon request
+20170302-10:09:15: Received logout request: MsgSeqNum too low, expecting 44 but received 4
+20170302-10:09:15: Sent logout response
+20170302-10:11:40: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170302-10:11:40: Created session: FIX.4.4:Client->Boerse
+20170302-10:11:40: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170302-10:11:40.20356=Boerse108=30141=Y10=252
+20170302-10:11:41: Initiated logon request
+20170302-10:11:41: Received logon
+20170302-10:11:41: Received ResendRequest FROM: 1 TO: infinity
+20170302-10:11:41: Sent SequenceReset TO: 3
+20170302-12:00:30: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170302-12:00:30: Created session: FIX.4.4:Client->Boerse
+20170302-12:00:30: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170302-12:00:30.25456=Boerse108=30141=Y10=001
+20170302-12:00:31: Initiated logon request
+20170302-12:00:31: Received logon
+20170302-12:00:31: Received ResendRequest FROM: 1 TO: infinity
+20170302-12:00:31: Sent SequenceReset TO: 3
+20170302-12:29:10: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170302-12:29:10: Created session: FIX.4.4:Client->Boerse
+20170302-12:29:10: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170302-12:29:10.65056=Boerse108=30141=Y10=010
+20170302-12:29:11: Initiated logon request
+20170302-12:29:11: Received logon
+20170302-12:29:11: Received ResendRequest FROM: 1 TO: infinity
+20170302-12:29:11: Sent SequenceReset TO: 3
+20170302-14:18:30: Sent test request TEST
+20170303-08:43:06: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170303-08:43:06: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170303-08:43:06: Created session: FIX.4.4:Client->Boerse
+20170303-08:43:06: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170303-08:43:06.53556=Boerse108=30141=Y10=019
+20170303-08:44:45: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170303-08:44:45: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170303-08:44:45: Created session: FIX.4.4:Client->Boerse
+20170303-08:44:45: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170303-08:44:45.74156=Boerse108=30141=Y10=022
+20170303-08:46:43: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170303-08:46:43: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170303-08:46:43: Created session: FIX.4.4:Client->Boerse
+20170303-08:46:44: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170303-08:46:43.99956=Boerse108=30141=Y10=037
+20170303-08:48:21: Session FIX.4.4:Client->Boerse schedule is weekly, SUN 00:00:00-UTC - FRI 00:00:00-UTC
+20170303-08:48:21: Session state is not current; resetting FIX.4.4:Client->Boerse
+20170303-08:48:21: Created session: FIX.4.4:Client->Boerse
+20170303-08:48:21: No responder, not sending message: 8=FIX.4.49=6835=A34=149=Client52=20170303-08:48:21.34956=Boerse108=30141=Y10=024
